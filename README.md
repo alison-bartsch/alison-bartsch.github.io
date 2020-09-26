@@ -2,7 +2,7 @@
 Personal Website!
 
 
-## Website Goals:
+### Website Goals:
 - have short bio on home page
 - have a page about ASL research
 - have a page about fun coding projects (solar system simulator, etc.)
