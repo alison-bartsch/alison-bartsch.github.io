@@ -11,6 +11,13 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+nav ul {
+    background-color: teal;
+    border: 3px solid teal;
+    height: 20px;
+    width: 378px;
+    
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
