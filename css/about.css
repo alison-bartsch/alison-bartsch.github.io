@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     /*background-color: #B3F6EC;*/
-    background: liner-gradient(90deg, ghostwhite 66%, teal 33%)
+    background: linear-gradient(90deg, ghostwhite 66%, teal 33%)
     /*background-color: darkcyan*/
 }
 nav ul, footer ul {
