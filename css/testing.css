@@ -7,7 +7,7 @@
     height: 100vh;
     width: 100%;
 
-    background-image: url('https://raw.githubusercontent.com/alison-bartsch/alison-bartsch.github.io/master/pics/home_page_with_profile_pic.png');
+    background-image: url('https://raw.githubusercontent.com/alison-bartsch/alison-bartsch.github.io/master/pics/home_page_updated.png');
     background-position: center;
     background-size: cover;
     padding-left: 5%;
@@ -82,9 +82,17 @@ nav ul li a:hover{
 }
 
 .content h1{
-    font-size: 100px;
+    font-size: 164px;
     font-weight: bold;
     margin-top: 20px;
+    /* margin-bottom: 75px; */
+    color: #333;
+}
+
+.content h2{
+    font-size: 70px;
+    font-weight: bold;
+    /* margin-top: 20px; */
     margin-bottom: 75px;
     color: #333;
 }
