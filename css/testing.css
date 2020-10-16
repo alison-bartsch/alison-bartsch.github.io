@@ -7,7 +7,7 @@
     height: 100vh;
     width: 100%;
 
-    background-image: url('https://i.pinimg.com/564x/7c/0e/c1/7c0ec1485b47a0b766c6aa34892194f8.jpg');
+    background-image: url('https://raw.githubusercontent.com/alison-bartsch/alison-bartsch.github.io/master/pics/home_page_with_profile_pic.png');
     background-position: center;
     background-size: cover;
     padding-left: 5%;
@@ -90,7 +90,7 @@ nav ul li a:hover{
 }
 
 .content p{
-    font-size: 20px;
+    font-size: 25px;
     color: #333;
 }
 
