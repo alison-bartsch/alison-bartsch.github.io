@@ -34,13 +34,13 @@
     align-items: left;
 }
 
-body {
-    margin: 60px auto;
-    width: 70%;
+/*body {*/
+    /*margin: 60px auto;*/
+    /*width: 70%;*/
     /*background-color: #B3F6EC;*/
-    background: linear-gradient(90deg, ghostwhite 66%, teal 33%)
+    /*background: linear-gradient(90deg, ghostwhite 66%, teal 33%)*/
     /*background-color: darkcyan*/
-}
+/*}*/
 
 nav{
     flex: 1; 
