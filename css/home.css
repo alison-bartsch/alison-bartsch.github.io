@@ -21,7 +21,9 @@
     background: linear-gradient(90deg, ghostwhite 66%, teal 33%);
     background-size: cover;
     padding-left: 5%;
-    padding-right: 5%;
+    padding-right: 30%;
+    box-sizing: border-box;
+    position: relative;
     /*background-color: darkcyan*/
 }
 
