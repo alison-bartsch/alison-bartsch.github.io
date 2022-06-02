@@ -8,7 +8,7 @@
     width: 100%;
     background-position: center;
     /*background: linear-gradient(180deg, ghostwhite 13%, teal 0%, teal 77%, teal 0%, ghostwhite 10%);*/
-    background: linear-gradient(90deg, ghostwhite 66%, teal 33%)
+    background: linear-gradient(90deg, ghostwhite 66%, teal 33%);
     background-size: cover;
     padding-left: 5%;
     padding-right: 33%;  /* the original percentage was 5% */
@@ -23,6 +23,14 @@
     display: flex;
     padding-top: 3%;
     align-items: left;
+}
+
+body {
+    margin: 60px auto;
+    width: 70%;
+    /*background-color: #B3F6EC;*/
+    background: linear-gradient(90deg, ghostwhite 66%, teal 33%)
+    /*background-color: darkcyan*/
 }
 
 nav{
@@ -83,6 +91,7 @@ nav ul li a:hover{
 .content p{
     font-size: 25px;
     color: #333;
+    padding-right: 33%;
 }
 
 .footer{
