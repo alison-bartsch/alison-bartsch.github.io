@@ -21,7 +21,7 @@
     background: linear-gradient(90deg, ghostwhite 66%, teal 33%);
     background-size: cover;
     padding-left: 5%;
-    padding-right: 25%;
+    padding-right: 5%;
     box-sizing: border-box;
     position: relative;
     /*background-color: darkcyan*/
@@ -95,7 +95,7 @@ nav ul li a:hover{
 .content p{
     font-size: 25px;
     color: #333;
-    padding-right: 33%;
+    /*padding-right: 33%;*/
 }
 
 .footer{
