@@ -1,28 +1,24 @@
+
+
+
+/*background: linear-gradient(90deg, ghostwhite 66%, teal 33%);*/
+
+
 *{
     margin: 0;
     padding: 0;
 }
 
 .container{
-    /*height: 100vh;*/
+    height: 100vh;
     width: 100%;
     background-position: center;
-    /*background: linear-gradient(180deg, ghostwhite 13%, teal 0%, teal 77%, teal 0%, ghostwhite 10%);*/
-    /*background: linear-gradient(90deg, ghostwhite 66%, teal 33%);*/
-    /*background-size: cover;*/
-    /*padding-left: 5%;*/
-    /*padding-right: 33%;*/   /*the original percentage was 5% */
-    /*box-sizing: border-box;*/
-    /*position: relative;*/
-
-    /*margin: 60px auto;*/
-    /*width: 70%;*/
-    /*background-color: #B3F6EC;*/
-    background: linear-gradient(90deg, ghostwhite 66%, teal 33%);
+    background: linear-gradient(180deg, ghostwhite 13%, teal 0%, teal 77%, teal 0%, ghostwhite 10%);
     background-size: cover;
     padding-left: 5%;
     padding-right: 5%;
-    /*background-color: darkcyan*/
+    box-sizing: border-box;
+    position: relative;
 }
 
 .navbar{
@@ -33,14 +29,6 @@
     padding-top: 3%;
     align-items: left;
 }
-
-/*body {*/
-    /*margin: 60px auto;*/
-    /*width: 70%;*/
-    /*background-color: #B3F6EC;*/
-    /*background: linear-gradient(90deg, ghostwhite 66%, teal 33%)*/
-    /*background-color: darkcyan*/
-/*}*/
 
 nav{
     flex: 1; 
@@ -82,25 +70,16 @@ nav ul li a:hover{
 }
 
 .content h1{
-    font-size: 164px;
-    font-weight: bold;
-    margin-top: 20px;
-    /* margin-bottom: 75px; */
-    color: #333;
-}
-
-.content h2{
     font-size: 70px;
     font-weight: bold;
-    /* margin-top: 20px; */
+    margin-top: 50px;
     margin-bottom: 75px;
-    color: #333;
+    color: ghostwhite;
 }
 
 .content p{
-    font-size: 25px;
-    color: #333;
-    padding-right: 33%;
+    font-size: 20px;
+    color: ghostwhite;
 }
 
 .footer{
