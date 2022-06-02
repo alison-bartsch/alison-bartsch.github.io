@@ -7,7 +7,8 @@
     height: 100vh;
     width: 100%;
     background-position: center;
-    background: linear-gradient(180deg, ghostwhite 13%, teal 0%, teal 77%, teal 0%, ghostwhite 10%);
+    /*background: linear-gradient(180deg, ghostwhite 13%, teal 0%, teal 77%, teal 0%, ghostwhite 10%);*/
+    background: linear-gradient(90deg, ghostwhite 66%, teal 33%)
     background-size: cover;
     padding-left: 5%;
     padding-right: 5%;
