@@ -66,7 +66,7 @@ nav ul li a:hover{
 .content h1{
     font-size: 164px;
     font-weight: bold;
-    margin-top: 50px;
+    margin-top: 20px;
     /*margin-bottom: 75px;*/
     color: #333;
 }
@@ -82,6 +82,7 @@ nav ul li a:hover{
 .content p{
     font-size: 20px;
     color: #333;
+    padding-right: 25%;
 }
 
 
