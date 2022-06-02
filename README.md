@@ -23,6 +23,7 @@ Personal Website!
 
 ### Websites I find Inspiring from a Design Perspective:
 - https://www.gsd.harvard.edu/
+- https://www.meaghangade.com/
 - http://andyisonline.com/
 - https://www.opencolony.com/
 - https://jdcdesignstudio.com/
