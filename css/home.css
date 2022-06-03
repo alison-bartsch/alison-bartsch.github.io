@@ -87,7 +87,7 @@ nav ul li a:hover{
 }
 
 .profile-pic{
-    height: 40%;
+    height: 45%;
     position: absolute;
     /*top: 150px;*/
     /*right: 55px;*/
@@ -95,7 +95,7 @@ nav ul li a:hover{
     /*right: 5%;*/
     /*vertical-align: middle;*/
     /*horizontal-align: right;*/
-    right: 6%;
+    right: 4%;
     top: 25%;
     /*margin-top: -height/2;*/
 } 
