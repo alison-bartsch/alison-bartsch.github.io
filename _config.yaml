@@ -1,2 +1,2 @@
 name: alison-bartsch.github.io
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
