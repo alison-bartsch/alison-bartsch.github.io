@@ -91,6 +91,12 @@ a {
   background: white;
 }
 
+/* p {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  background: white;
+} */
+
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
@@ -108,6 +114,13 @@ h2 {
   font-size: 14px;
   font-weight: 700;
   
+}
+
+.paperparagraph {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  /* set font color to grey */
+  color: #666;
 }
 
 .name {
